@@ -1,0 +1,8 @@
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\bin\Debug\TugasPV1Apl.exe.config
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\bin\Debug\TugasPV1Apl.exe
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\bin\Debug\TugasPV1Apl.pdb
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\obj\Debug\TugasPV1Apl.csprojResolveAssemblyReference.cache
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\obj\Debug\TugasPV1Apl.MainForm.resources
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\obj\Debug\TugasPV1Apl.csproj.GenerateResource.Cache
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\obj\Debug\TugasPV1Apl.exe
+D:\Semester 4\Pemrograman Visual\TugasPV1Apl\TugasPV1Apl\obj\Debug\TugasPV1Apl.pdb
